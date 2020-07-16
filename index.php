@@ -4,9 +4,6 @@
 
 <?php
 
-
-
-//абстракция 
 abstract class Animal {
     public $tail;
     public $paws;
